@@ -1,0 +1,10 @@
+#导航栏设置
+menu:
+  首页: /
+  分类: /categories
+  标签: /tags
+  archives: /archives
+#箴言/诗句/名言
+headdata: "“明月有情应识我，年年相见在他乡”"
+#页脚文字设置
+footer: "此夜曲中闻折柳，何人不起故园情"
