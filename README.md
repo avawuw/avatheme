@@ -6,4 +6,4 @@
 
 本主题由avawuw一人完成，为hexo主题，制作期间参考众多教程，期望是写出一个简单但好看的主题
 
-演示站：[Hexo (catmirror.moe)](https://text.catmirror.moe/)
+演示站：avawuw.github.io
